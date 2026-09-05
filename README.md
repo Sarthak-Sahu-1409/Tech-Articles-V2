@@ -1,3 +1,3 @@
 # Tech-Articles-V2
 
-https://stripe.com/blog/idempotency
+Idempotency / Retries - https://stripe.com/blog/idempotency
